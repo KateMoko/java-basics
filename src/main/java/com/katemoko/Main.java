@@ -9,8 +9,6 @@ public class Main {
         long longVar = 2_147_483_647_000L;
         float floatVar = 0.123F;
         double doubleVar = 304.458_779;
-        boolean booleanVar1 = true;
-        boolean booleanVar2 = false;
 
         //Basic arithmetic operators
         System.out.println("byteVar + shortVar = " + (byteVar + shortVar));
